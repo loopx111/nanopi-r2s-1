@@ -1,5 +1,6 @@
 ## FriendlyWRT-2020-07-04-935c67b
 
+
 #### Argon [6bab4a8..d4b2541](https://github.com/jerrykuku/luci-theme-argon/compare/6bab4a8..d4b2541)
 
 
