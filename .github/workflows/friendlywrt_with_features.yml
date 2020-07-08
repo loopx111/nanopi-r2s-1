@@ -1,6 +1,5 @@
 name: FwF
 
-
 on:
   repository_dispatch:
   push:
